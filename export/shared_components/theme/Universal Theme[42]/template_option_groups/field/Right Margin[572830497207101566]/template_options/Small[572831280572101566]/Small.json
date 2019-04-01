@@ -1,0 +1,8 @@
+{
+  "name": "FRM_SMALL",
+  "displayName": "Small",
+  "displaySequence": 20,
+  "cssClasses": "margin-right-sm",
+  "helpText": "Adds a small right margin for this field.",
+  "isAdvanced": null
+}

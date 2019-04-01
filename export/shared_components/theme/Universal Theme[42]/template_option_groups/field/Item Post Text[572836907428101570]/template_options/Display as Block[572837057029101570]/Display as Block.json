@@ -1,0 +1,8 @@
+{
+  "name": "POST_TEXT_BLOCK",
+  "displayName": "Display as Block",
+  "displaySequence": 10,
+  "cssClasses": "t-Form-fieldContainer--postTextBlock",
+  "helpText": "Displays the Item Post Text in a block style immediately after the item.",
+  "isAdvanced": null
+}

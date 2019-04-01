@@ -1,0 +1,15 @@
+.team-pic img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 18rem;
+}
+
+.team-pic{
+    background-color: #eeeeee;
+}
+
+.t-Card-wrap{
+    border: none;
+}

@@ -1,0 +1,9 @@
+{
+  "group": "Layout",
+  "name": "FLEXIBLEBOX",
+  "displayName": "Flexible Box",
+  "displaySequence": 80,
+  "cssClasses": "t-BadgeList--flex",
+  "helpText": null,
+  "isAdvanced": "No"
+}

@@ -1,0 +1,9 @@
+{
+  "group": "Header",
+  "name": "HIDDENHEADERNOAT",
+  "displayName": "Hidden",
+  "displaySequence": 10,
+  "cssClasses": "t-Region--removeHeader",
+  "helpText": null,
+  "isAdvanced": "No"
+}

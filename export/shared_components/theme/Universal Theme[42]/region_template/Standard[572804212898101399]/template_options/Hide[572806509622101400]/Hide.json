@@ -1,0 +1,9 @@
+{
+  "group": "Body Overflow",
+  "name": "HIDEOVERFLOW",
+  "displayName": "Hide",
+  "displaySequence": 20,
+  "cssClasses": "t-Region--hiddenOverflow",
+  "helpText": null,
+  "isAdvanced": "No"
+}

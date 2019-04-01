@@ -1,0 +1,9 @@
+{
+  "name": "ANIMATION",
+  "displayName": "Animation",
+  "displaySequence": 10,
+  "templateTypes": "REGION",
+  "helpText": "Sets the animation when navigating within the Carousel Region.",
+  "nullText": "Fade",
+  "isAdvanced": "N"
+}

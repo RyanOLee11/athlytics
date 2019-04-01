@@ -1,0 +1,9 @@
+{
+  "group": "Layout",
+  "name": "5COLUMNGRID",
+  "displayName": "5 Column Grid",
+  "displaySequence": 50,
+  "cssClasses": "t-BadgeList--cols t-BadgeList--5cols",
+  "helpText": null,
+  "isAdvanced": "No"
+}

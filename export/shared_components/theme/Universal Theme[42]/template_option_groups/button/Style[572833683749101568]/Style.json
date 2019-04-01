@@ -1,0 +1,9 @@
+{
+  "name": "STYLE",
+  "displayName": "Style",
+  "displaySequence": 30,
+  "templateTypes": "BUTTON",
+  "helpText": "Sets the style of the button. Use the \"Simple\" option for secondary actions or sets of buttons. Use the \"Remove UI Decoration\" option to make the button appear as text.",
+  "nullText": "Default",
+  "isAdvanced": "N"
+}

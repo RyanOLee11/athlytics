@@ -1,0 +1,36 @@
+{
+  "identification": {
+    "itemName": "P1040_TEAM_ID",
+    "itemType": "NATIVE_HIDDEN"
+  },
+  "layout": {
+    "displaySequence": 10
+  },
+  "advanced": {
+    "itemWarnOnUnsavedChanges": null
+  },
+  "source": {
+    "sourceType": "Database Column",
+    "sourceDbColumn": "TEAM_ID",
+    "sourceUsed": "Always, replacing any existing value in session state",
+    "maintainSessionState": "Per Session"
+  },
+  "default": {
+    "defaultValueType": null
+  },
+  "serverSideCondition": {
+    "conditionType": null
+  },
+  "security": {
+    "authorizationScheme": null,
+    "sessionStateProtection": "Checksum Required - Session Level",
+    "encryptSessionState": "N",
+    "restrictedCharacters": null
+  },
+  "configuration": {
+    "buildOption": null
+  },
+  "settings": {
+    "valueProtected": "Y"
+  }
+}

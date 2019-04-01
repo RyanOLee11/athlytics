@@ -1,0 +1,9 @@
+{
+  "name": "REGION_BOTTOM_MARGIN",
+  "displayName": "Bottom Margin",
+  "displaySequence": 210,
+  "templateTypes": "REGION",
+  "helpText": "Set the bottom margin for this region.",
+  "nullText": "Default",
+  "isAdvanced": "Y"
+}

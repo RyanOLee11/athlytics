@@ -1,0 +1,8 @@
+{
+  "name": "RBM_NONE",
+  "displayName": "None",
+  "displaySequence": 10,
+  "cssClasses": "margin-bottom-none",
+  "helpText": "Removes the bottom margin for this region.",
+  "isAdvanced": null
+}

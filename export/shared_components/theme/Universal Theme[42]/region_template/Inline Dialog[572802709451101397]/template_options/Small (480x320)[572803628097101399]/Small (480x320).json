@@ -1,0 +1,9 @@
+{
+  "group": "Dialog Size",
+  "name": "SMALL_480X320",
+  "displayName": "Small (480x320)",
+  "displaySequence": 10,
+  "cssClasses": "js-dialog-size480x320",
+  "helpText": null,
+  "isAdvanced": null
+}

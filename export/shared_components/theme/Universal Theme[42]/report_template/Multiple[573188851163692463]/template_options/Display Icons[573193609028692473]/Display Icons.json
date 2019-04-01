@@ -1,0 +1,9 @@
+{
+  "group": "Icons",
+  "name": "DISPLAY_ICONS",
+  "displayName": "Display Icons",
+  "displaySequence": 10,
+  "cssClasses": "t-Cards--displayIcons",
+  "helpText": null,
+  "isAdvanced": null
+}

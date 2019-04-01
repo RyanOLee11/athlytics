@@ -1,0 +1,9 @@
+{
+  "name": "SPACING_LEFT",
+  "displayName": "Spacing Left",
+  "displaySequence": 70,
+  "templateTypes": "BUTTON",
+  "helpText": "Controls the spacing to the left of the button.",
+  "nullText": "Default",
+  "isAdvanced": "Y"
+}

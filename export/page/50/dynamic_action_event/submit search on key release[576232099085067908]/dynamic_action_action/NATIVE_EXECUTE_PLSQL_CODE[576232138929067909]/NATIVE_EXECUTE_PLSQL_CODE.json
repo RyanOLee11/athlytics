@@ -1,0 +1,21 @@
+{
+  "identification": {
+    "daActionType": "NATIVE_EXECUTE_PLSQL_CODE"
+  },
+  "affectedElements": {
+    "affectedType": null
+  },
+  "executionOptions": {
+    "executionSequence": 20,
+    "daEvent": "submit search on key release",
+    "fireWhenEventResultIs": "True",
+    "fireOnPageLoad": "N",
+    "stopExecutionOnError": "Y",
+    "waitForResult": "Y"
+  },
+  "settings": {
+    "itemsToSubmit": "P50_SEARCH",
+    "itemsToReturn": null,
+    "suppressChangeEvent": null
+  }
+}

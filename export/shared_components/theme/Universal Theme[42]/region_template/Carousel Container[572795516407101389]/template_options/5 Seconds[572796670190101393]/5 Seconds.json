@@ -1,0 +1,9 @@
+{
+  "group": "Timer",
+  "name": "5_SECONDS",
+  "displayName": "5 Seconds",
+  "displaySequence": 10,
+  "cssClasses": "js-cycle5s",
+  "helpText": null,
+  "isAdvanced": null
+}

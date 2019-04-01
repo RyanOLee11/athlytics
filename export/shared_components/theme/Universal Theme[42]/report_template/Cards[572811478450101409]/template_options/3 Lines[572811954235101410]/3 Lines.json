@@ -1,0 +1,9 @@
+{
+  "group": "Body Text",
+  "name": "3_LINES",
+  "displayName": "3 Lines",
+  "displaySequence": 20,
+  "cssClasses": "t-Cards--desc-3ln",
+  "helpText": null,
+  "isAdvanced": null
+}

@@ -1,0 +1,30 @@
+{
+  "identification": {
+    "columnName": "PLAYER_GAME_ID",
+    "classicReportColumnType": "Hidden Column"
+  },
+  "layout": {
+    "displaySequence": 1
+  },
+  "sorting": {
+    "disableSortColumn": "Y"
+  },
+  "exportPrinting": {
+    "printColumnWidth": null
+  },
+  "uiDefaultsReference": {
+    "uiDefaultRefTableOwner": null,
+    "uiDefaultRefTable": null,
+    "uiDefaultRefColumn": null
+  },
+  "serverSideCondition": {
+    "conditionType": null
+  },
+  "security": {
+    "authorizationScheme": null,
+    "escapeSpecialCharacters": "Y"
+  },
+  "configuration": {
+    "buildOption": null
+  }
+}

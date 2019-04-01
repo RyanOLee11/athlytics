@@ -1,0 +1,49 @@
+{
+  "identification": {
+    "columnName": "SF/PF_Rank",
+    "irColumnDisplayType": "Plain Text"
+  },
+  "heading": {
+    "columnHeading": "SF-PF",
+    "headingAlignment": "center"
+  },
+  "singleRowView": {
+    "syncFormLabel": "Y"
+  },
+  "layout": {
+    "displaySequence": 110,
+    "columnAlignment": "center",
+    "irColumnGroup": null
+  },
+  "appearance": {
+    "formatMask": null
+  },
+  "columnFilter": {
+    "irColumnFilterType": "Default Based on Column Type"
+  },
+  "advanced": {
+    "staticId": null
+  },
+  "enableUserTo": {
+    "allowUsersToHide": "Y",
+    "allowUsersToSort": "Y",
+    "allowUsersToFilter": "Y",
+    "allowUsersToHighlight": "Y",
+    "allowUsersToControlBreak": "Y",
+    "allowUsersToAggregate": "Y",
+    "allowUsersToCompute": "Y",
+    "allowUsersToChart": "Y",
+    "allowUsersToGroupBy": "Y",
+    "allowUsersToPivot": "Y"
+  },
+  "serverSideCondition": {
+    "conditionType": null
+  },
+  "security": {
+    "authorizationScheme": null,
+    "escapeSpecialCharacters": "Y"
+  },
+  "configuration": {
+    "buildOption": null
+  }
+}

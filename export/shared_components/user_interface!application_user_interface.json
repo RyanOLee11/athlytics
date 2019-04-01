@@ -1,0 +1,16 @@
+{
+  "generalProperties": {
+    "mediaType": null,
+    "staticFilePrefix": null
+  },
+  "logo": {
+    "logo": "#APP_IMAGES#Untitled design (1).png",
+    "logoImageAttributes": "style=\"float:left;margin-right:15px;width:500px;\""
+  },
+  "favicon": {
+    "faviconsHtml": null
+  },
+  "css": {
+    "cssFileUrls": null
+  }
+}

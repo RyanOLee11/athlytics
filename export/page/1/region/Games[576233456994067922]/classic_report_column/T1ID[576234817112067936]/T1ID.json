@@ -1,0 +1,50 @@
+{
+  "identification": {
+    "columnName": "T1ID",
+    "classicReportColumnType": "Plain Text"
+  },
+  "heading": {
+    "columnHeading": "T1id",
+    "headingAlignment": "center"
+  },
+  "layout": {
+    "displaySequence": 2,
+    "columnAlignment": "start"
+  },
+  "appearance": {
+    "formatMask": null
+  },
+  "columnFormatting": {
+    "formattingCssClasses": null,
+    "cssStyle": null,
+    "highlightWords": null
+  },
+  "sorting": {
+    "columnSortSequence": null,
+    "disableSortColumn": "N"
+  },
+  "exportPrinting": {
+    "includeInExportPrint": "Y",
+    "printColumnWidth": null
+  },
+  "advanced": {
+    "columnWidth": null,
+    "computeSum": "N",
+    "useAsRowHeader": "N"
+  },
+  "uiDefaultsReference": {
+    "uiDefaultRefTableOwner": null,
+    "uiDefaultRefTable": null,
+    "uiDefaultRefColumn": null
+  },
+  "serverSideCondition": {
+    "conditionType": null
+  },
+  "security": {
+    "authorizationScheme": null,
+    "escapeSpecialCharacters": "Y"
+  },
+  "configuration": {
+    "buildOption": null
+  }
+}

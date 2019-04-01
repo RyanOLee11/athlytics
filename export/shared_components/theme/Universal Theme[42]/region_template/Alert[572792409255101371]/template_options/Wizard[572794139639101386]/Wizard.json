@@ -1,0 +1,9 @@
+{
+  "group": "Alert Display",
+  "name": "WIZARD",
+  "displayName": "Wizard",
+  "displaySequence": 20,
+  "cssClasses": "t-Alert--wizard",
+  "helpText": "Show the alert in a wizard style region.",
+  "isAdvanced": "No"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "LAYOUT",
+  "displayName": "Layout",
+  "displaySequence": 1,
+  "templateTypes": "REGION",
+  "helpText": null,
+  "nullText": "Default",
+  "isAdvanced": "N"
+}

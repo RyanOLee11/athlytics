@@ -1,0 +1,9 @@
+{
+  "group": "Comments Style",
+  "name": "BASIC",
+  "displayName": "Basic",
+  "displaySequence": 10,
+  "cssClasses": "t-Comments--basic",
+  "helpText": null,
+  "isAdvanced": null
+}

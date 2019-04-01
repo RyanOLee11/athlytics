@@ -1,0 +1,9 @@
+{
+  "group": "Icon Position",
+  "name": "LEFTICON",
+  "displayName": "Left",
+  "sequence": 10,
+  "cssClasses": "t-Button--iconLeft",
+  "helpText": null,
+  "isAdvanced": "No"
+}

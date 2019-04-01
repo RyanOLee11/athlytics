@@ -1,0 +1,9 @@
+{
+  "name": "STYLE",
+  "displayName": "Style",
+  "displaySequence": 10,
+  "templateTypes": "REPORT",
+  "helpText": "Determines the overall style for the component.",
+  "nullText": "Default",
+  "isAdvanced": "N"
+}

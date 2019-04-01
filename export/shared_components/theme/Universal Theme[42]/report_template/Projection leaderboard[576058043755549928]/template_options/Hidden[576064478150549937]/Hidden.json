@@ -1,0 +1,9 @@
+{
+  "group": "Body Text",
+  "name": "HIDDEN_BODY_TEXT",
+  "displayName": "Hidden",
+  "displaySequence": 50,
+  "cssClasses": "t-Cards--hideBody",
+  "helpText": "This option hides the card body which contains description and subtext.",
+  "isAdvanced": null
+}

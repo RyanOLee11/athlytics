@@ -1,0 +1,8 @@
+{
+  "name": "SUCCESS",
+  "displayName": "Success",
+  "displaySequence": 40,
+  "cssClasses": "t-Button--success",
+  "helpText": null,
+  "isAdvanced": "No"
+}

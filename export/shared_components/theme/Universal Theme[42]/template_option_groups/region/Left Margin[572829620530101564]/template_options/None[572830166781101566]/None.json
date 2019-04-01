@@ -1,0 +1,8 @@
+{
+  "name": "RLM_NONE",
+  "displayName": "None",
+  "displaySequence": 10,
+  "cssClasses": "margin-left-none",
+  "helpText": "Removes the left margin from the region.",
+  "isAdvanced": null
+}

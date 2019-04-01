@@ -1,0 +1,8 @@
+{
+  "name": "FRM_LARGE",
+  "displayName": "Large",
+  "displaySequence": 40,
+  "cssClasses": "margin-right-lg",
+  "helpText": "Adds a large right margin for this field.",
+  "isAdvanced": null
+}

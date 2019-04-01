@@ -1,0 +1,9 @@
+{
+  "name": "ITEM_POST_TEXT",
+  "displayName": "Item Post Text",
+  "displaySequence": 30,
+  "templateTypes": "FIELD",
+  "helpText": "Adjust the display of the Item Post Text",
+  "nullText": "Default",
+  "isAdvanced": "Y"
+}

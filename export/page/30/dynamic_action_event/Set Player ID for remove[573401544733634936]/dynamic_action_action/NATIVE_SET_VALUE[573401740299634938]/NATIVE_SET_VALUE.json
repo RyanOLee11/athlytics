@@ -1,0 +1,26 @@
+{
+  "identification": {
+    "daActionType": "NATIVE_SET_VALUE"
+  },
+  "affectedElements": {
+    "affectedType": "Item(s)",
+    "affectedItems": "P30_ACTION_TYPE"
+  },
+  "executionOptions": {
+    "executionSequence": 20,
+    "daEvent": "Set Player ID for remove",
+    "fireWhenEventResultIs": "True",
+    "fireOnPageLoad": "N",
+    "stopExecutionOnError": "Y",
+    "waitForResult": "Y"
+  },
+  "settings": {
+    "setType": "STATIC_ASSIGNMENT",
+    "value": "'REMOVE'",
+    "plsqlExpression": null,
+    "itemsToSubmit": null,
+    "escapeSpecialCharacters": null,
+    "suppressChangeEvent": "N",
+    "returnItem": null
+  }
+}

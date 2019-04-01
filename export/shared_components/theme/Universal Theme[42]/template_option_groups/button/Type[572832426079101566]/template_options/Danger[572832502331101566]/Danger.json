@@ -1,0 +1,8 @@
+{
+  "name": "DANGER",
+  "displayName": "Danger",
+  "displaySequence": 30,
+  "cssClasses": "t-Button--danger",
+  "helpText": null,
+  "isAdvanced": "No"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "LARGE",
+  "displayName": "Large",
+  "displaySequence": 30,
+  "cssClasses": "t-Button--large",
+  "helpText": "A large button.",
+  "isAdvanced": "No"
+}

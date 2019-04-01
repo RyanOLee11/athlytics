@@ -1,0 +1,9 @@
+{
+  "group": "Report Border",
+  "name": "VERTICALBORDERS",
+  "displayName": "Vertical Only",
+  "displaySequence": 20,
+  "cssClasses": "t-Report--verticalBorders",
+  "helpText": null,
+  "isAdvanced": "No"
+}

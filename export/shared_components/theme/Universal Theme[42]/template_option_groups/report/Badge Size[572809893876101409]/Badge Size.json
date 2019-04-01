@@ -1,0 +1,9 @@
+{
+  "name": "BADGE_SIZE",
+  "displayName": "Badge Size",
+  "displaySequence": 10,
+  "templateTypes": "REPORT",
+  "helpText": null,
+  "nullText": null,
+  "isAdvanced": "N"
+}

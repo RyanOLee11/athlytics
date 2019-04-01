@@ -1,0 +1,33 @@
+{
+  "identification": {
+    "name": "Add Player"
+  },
+  "executionOptions": {
+    "executionSequence": 10
+  },
+  "when": {
+    "event": "change",
+    "whenType": "Item(s)",
+    "whenItems": "P1_ACTION_TYPE"
+  },
+  "clientSideCondition": {
+    "jsCondition": "Item = Value",
+    "jsConditionItem": "P1_ACTION_TYPE",
+    "jsCondValue": "'ADD'",
+    "jsConditionElementType": null,
+    "jsCondValueWhenIg": "'ADD'"
+  },
+  "advanced": {
+    "eventScope": "Dynamic",
+    "staticContainerJquery": null
+  },
+  "serverSideCondition": {
+    "conditionType": null
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  }
+}

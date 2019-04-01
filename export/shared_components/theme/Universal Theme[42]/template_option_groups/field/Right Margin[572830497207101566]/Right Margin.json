@@ -1,0 +1,9 @@
+{
+  "name": "RIGHT_MARGIN",
+  "displayName": "Right Margin",
+  "displaySequence": 230,
+  "templateTypes": "FIELD",
+  "helpText": "Set the right margin for this field.",
+  "nullText": "Default",
+  "isAdvanced": "Y"
+}

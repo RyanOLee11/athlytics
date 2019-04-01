@@ -1,0 +1,9 @@
+{
+  "group": null,
+  "name": "REMEMBER_CAROUSEL_SLIDE",
+  "displayName": "Remember Carousel Slide",
+  "displaySequence": 20,
+  "cssClasses": "js-useLocalStorage",
+  "helpText": null,
+  "isAdvanced": null
+}

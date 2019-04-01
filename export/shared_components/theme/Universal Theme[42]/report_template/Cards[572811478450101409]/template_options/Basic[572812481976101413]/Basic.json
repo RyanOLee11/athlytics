@@ -1,0 +1,9 @@
+{
+  "group": "Style",
+  "name": "BASIC",
+  "displayName": "Basic",
+  "displaySequence": 10,
+  "cssClasses": "t-Cards--basic",
+  "helpText": null,
+  "isAdvanced": null
+}

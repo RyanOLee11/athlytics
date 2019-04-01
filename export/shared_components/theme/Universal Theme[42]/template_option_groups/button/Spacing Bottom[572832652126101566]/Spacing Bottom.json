@@ -1,0 +1,9 @@
+{
+  "name": "SPACING_BOTTOM",
+  "displayName": "Spacing Bottom",
+  "displaySequence": 100,
+  "templateTypes": "BUTTON",
+  "helpText": "Controls the spacing to the bottom of the button.",
+  "nullText": "Default",
+  "isAdvanced": "Y"
+}

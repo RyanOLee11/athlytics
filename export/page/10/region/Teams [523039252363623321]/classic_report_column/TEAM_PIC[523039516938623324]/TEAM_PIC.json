@@ -1,0 +1,51 @@
+{
+  "identification": {
+    "columnName": "TEAM_PIC",
+    "classicReportColumnType": "Display Image"
+  },
+  "heading": {
+    "columnHeading": "Team pic",
+    "headingAlignment": "center"
+  },
+  "layout": {
+    "displaySequence": 3,
+    "columnAlignment": "start"
+  },
+  "blob": {
+    "blobTableOwner": null,
+    "blobTable": "ATH_TEAMS",
+    "blobContentColumn": "TEAM_PIC",
+    "blobPkColumn1": "TEAM_ID",
+    "blobPkColumn2": null,
+    "blobMimeTypeColumn": null,
+    "blobFilenameColumn": null,
+    "blobLastUpdatedColumn": null
+  },
+  "sorting": {
+    "columnSortSequence": null,
+    "disableSortColumn": "N"
+  },
+  "exportPrinting": {
+    "includeInExportPrint": "Y",
+    "printColumnWidth": null
+  },
+  "advanced": {
+    "columnWidth": null,
+    "computeSum": "N",
+    "useAsRowHeader": "N"
+  },
+  "uiDefaultsReference": {
+    "uiDefaultRefTableOwner": null,
+    "uiDefaultRefTable": null,
+    "uiDefaultRefColumn": null
+  },
+  "serverSideCondition": {
+    "conditionType": null
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  }
+}

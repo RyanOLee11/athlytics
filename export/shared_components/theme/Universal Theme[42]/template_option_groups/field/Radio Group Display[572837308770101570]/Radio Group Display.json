@@ -1,0 +1,9 @@
+{
+  "name": "RADIO_GROUP_DISPLAY",
+  "displayName": "Radio Group Display",
+  "displaySequence": 300,
+  "templateTypes": "FIELD",
+  "helpText": "Determines the display for radio group items.",
+  "nullText": "Default",
+  "isAdvanced": "Y"
+}

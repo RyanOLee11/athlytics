@@ -1,0 +1,9 @@
+{
+  "group": null,
+  "name": "MODAL",
+  "displayName": "Modal",
+  "displaySequence": 10,
+  "cssClasses": "js-modal",
+  "helpText": null,
+  "isAdvanced": null
+}

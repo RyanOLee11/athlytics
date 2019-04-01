@@ -1,0 +1,9 @@
+{
+  "group": "Layout",
+  "name": "LEFT_ALIGNED_DETAILS",
+  "displayName": "Left Aligned Details",
+  "displaySequence": 10,
+  "cssClasses": "t-AVPList--leftAligned",
+  "helpText": null,
+  "isAdvanced": null
+}

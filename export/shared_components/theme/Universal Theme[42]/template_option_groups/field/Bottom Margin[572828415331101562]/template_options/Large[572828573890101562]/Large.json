@@ -1,0 +1,8 @@
+{
+  "name": "FBM_LARGE",
+  "displayName": "Large",
+  "displaySequence": 40,
+  "cssClasses": "margin-bottom-lg",
+  "helpText": "Adds a large bottom margin for this field.",
+  "isAdvanced": null
+}

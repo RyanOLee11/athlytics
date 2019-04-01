@@ -1,0 +1,9 @@
+{
+  "group": "Alert Type",
+  "name": "INFORMATION",
+  "displayName": "Information",
+  "displaySequence": 30,
+  "cssClasses": "t-Alert--info",
+  "helpText": "Show informational alert.",
+  "isAdvanced": "No"
+}

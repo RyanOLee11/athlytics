@@ -1,0 +1,9 @@
+{
+  "group": "Region Title",
+  "name": "CONTENT_TITLE_H1",
+  "displayName": "Heading Level 1",
+  "displaySequence": 10,
+  "cssClasses": "t-ContentBlock--h1",
+  "helpText": null,
+  "isAdvanced": null
+}

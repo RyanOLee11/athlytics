@@ -1,0 +1,8 @@
+{
+  "name": "PILLEND",
+  "displayName": "Last Button",
+  "displaySequence": 30,
+  "cssClasses": "t-Button--pillEnd",
+  "helpText": null,
+  "isAdvanced": "No"
+}

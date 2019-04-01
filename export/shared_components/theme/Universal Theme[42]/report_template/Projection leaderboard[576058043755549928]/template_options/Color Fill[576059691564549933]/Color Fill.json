@@ -1,0 +1,9 @@
+{
+  "group": "Animation",
+  "name": "CARDS_COLOR_FILL",
+  "displayName": "Color Fill",
+  "displaySequence": 10,
+  "cssClasses": "t-Cards--animColorFill",
+  "helpText": null,
+  "isAdvanced": null
+}

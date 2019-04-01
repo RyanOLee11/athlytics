@@ -1,0 +1,9 @@
+{
+  "name": "LAYOUT",
+  "displayName": "Layout",
+  "displaySequence": 30,
+  "templateTypes": "REPORT",
+  "helpText": "Determines the layout of Cards in the report.",
+  "nullText": null,
+  "isAdvanced": "N"
+}

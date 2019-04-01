@@ -1,0 +1,8 @@
+{
+  "name": "FTM_MEDIUM",
+  "displayName": "Medium",
+  "displaySequence": 30,
+  "cssClasses": "margin-top-md",
+  "helpText": "Adds a medium top margin for this field.",
+  "isAdvanced": null
+}

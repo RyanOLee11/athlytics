@@ -1,0 +1,9 @@
+{
+  "group": "Layout",
+  "name": "3_COLUMNS",
+  "displayName": "3 Columns",
+  "displaySequence": 20,
+  "cssClasses": "t-Cards--3cols",
+  "helpText": null,
+  "isAdvanced": null
+}

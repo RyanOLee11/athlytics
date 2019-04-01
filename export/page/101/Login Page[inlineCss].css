@@ -1,0 +1,59 @@
+.t-Body{
+    background: url(#APP_IMAGES#Basketball-Court-Background-for-Desktop.jpg);
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.t-Login-region{
+    background-color: transparent;
+    box-shadow: none;
+}
+
+.t-Login-title{
+    visibility: hidden;
+}
+
+.t-Login-header{
+    background: url(#APP_IMAGES#A.png);
+    opacity: 0.75;
+    
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;   
+}
+
+.t-Login-region .t-Login-body input.apex-item-text{
+    background-color: transparent;
+    border: none;
+    color: white
+}
+
+.t-Login-region .t-Login-body input.apex-item-text:focus{
+    background-color: transparent !important;
+    border: none;
+    color: white
+        
+}
+
+.apex-item-icon{
+    color: white;
+} 
+
+::placeholder {
+  color: white !important;
+}    
+    
+#LOGIN_BUT{
+    background-color: white;
+    color: black;
+    opacity: 0.25;
+    
+}
+
+#LOGIN_BUT:hover{
+    background-color: #16ce05;
+}

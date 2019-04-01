@@ -1,0 +1,8 @@
+{
+  "name": "PRIMARY",
+  "displayName": "Primary",
+  "displaySequence": 10,
+  "cssClasses": "t-Button--primary",
+  "helpText": null,
+  "isAdvanced": "No"
+}

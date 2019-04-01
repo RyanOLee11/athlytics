@@ -1,0 +1,9 @@
+{
+  "group": null,
+  "name": "RESIZABLE",
+  "displayName": "Resizable",
+  "displaySequence": 30,
+  "cssClasses": "js-resizable",
+  "helpText": null,
+  "isAdvanced": null
+}

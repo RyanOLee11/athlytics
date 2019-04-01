@@ -1,0 +1,9 @@
+{
+  "name": "BOTTOM_MARGIN",
+  "displayName": "Bottom Margin",
+  "displaySequence": 220,
+  "templateTypes": "FIELD",
+  "helpText": "Set the bottom margin for this field.",
+  "nullText": "Default",
+  "isAdvanced": "Y"
+}

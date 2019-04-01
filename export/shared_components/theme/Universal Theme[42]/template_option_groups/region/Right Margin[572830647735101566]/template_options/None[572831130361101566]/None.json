@@ -1,0 +1,8 @@
+{
+  "name": "RRM_NONE",
+  "displayName": "None",
+  "displaySequence": 10,
+  "cssClasses": "margin-right-none",
+  "helpText": "Removes the right margin from the region.",
+  "isAdvanced": null
+}

@@ -1,0 +1,9 @@
+{
+  "group": null,
+  "name": "DRAGGABLE",
+  "displayName": "Draggable",
+  "displaySequence": 20,
+  "cssClasses": "js-draggable",
+  "helpText": null,
+  "isAdvanced": null
+}

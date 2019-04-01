@@ -1,0 +1,8 @@
+{
+  "name": "RTM_NONE",
+  "displayName": "None",
+  "displaySequence": 10,
+  "cssClasses": "margin-top-none",
+  "helpText": "Removes the top margin for this region.",
+  "isAdvanced": null
+}

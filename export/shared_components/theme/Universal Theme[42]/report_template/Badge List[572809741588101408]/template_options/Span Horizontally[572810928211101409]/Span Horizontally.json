@@ -1,0 +1,9 @@
+{
+  "group": "Layout",
+  "name": "FIXED",
+  "displayName": "Span Horizontally",
+  "displaySequence": 60,
+  "cssClasses": "t-BadgeList--fixed",
+  "helpText": null,
+  "isAdvanced": "No"
+}

@@ -1,0 +1,9 @@
+{
+  "group": "Layout",
+  "name": "2COLUMNGRID",
+  "displayName": "2 Column Grid",
+  "displaySequence": 20,
+  "cssClasses": "t-BadgeList--cols",
+  "helpText": "Arrange badges in a two column grid",
+  "isAdvanced": "No"
+}

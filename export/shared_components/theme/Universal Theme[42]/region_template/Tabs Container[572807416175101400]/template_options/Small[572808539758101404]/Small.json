@@ -1,0 +1,9 @@
+{
+  "group": "Tabs Size",
+  "name": "TABS_SMALL",
+  "displayName": "Small",
+  "displaySequence": 10,
+  "cssClasses": "t-TabsRegion-mod--small",
+  "helpText": null,
+  "isAdvanced": null
+}

@@ -1,0 +1,24 @@
+{
+  "identification": {
+    "columnName": "PLAYER_ID",
+    "irColumnDisplayType": "Hidden Column"
+  },
+  "heading": {
+    "columnHeading": "Player Id"
+  },
+  "layout": {
+    "displaySequence": 10
+  },
+  "advanced": {
+    "staticId": null
+  },
+  "serverSideCondition": {
+    "conditionType": null
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  }
+}

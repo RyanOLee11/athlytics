@@ -1,0 +1,54 @@
+{
+  "identification": {
+    "title": "Lineup",
+    "regionType": "NATIVE_SQL_REPORT"
+  },
+  "source": {
+    "sourcePageItemsToSubmit": "P30_LINEUP_ID",
+    "hasGenericColumns": "DERIVED_REPORT_COLUMNS"
+  },
+  "layout": {
+    "displaySequence": 10,
+    "regionPosition": "BODY",
+    "gridNewGrid": null,
+    "gridNewRow": "Y",
+    "gridColumn": null,
+    "gridNewColumn": null,
+    "gridColumnSpan": null,
+    "gridColumnCssClasses": null,
+    "gridColumnAttributes": null
+  },
+  "appearance": {
+    "regionTemplate": "Standard",
+    "templateOptions": "#DEFAULT#:t-Region--removeHeader:t-Region--scrollBody",
+    "appearanceCssClasses": null,
+    "iconCssClasses": null,
+    "itemDisplayPosition": "Above Content"
+  },
+  "advanced": {
+    "staticId": "lineups-classic-report",
+    "customAttributes": null,
+    "regionImage": null,
+    "imageTagAttributes": null,
+    "regionDisplaySelector": "Y",
+    "schemaOverrideItem": null
+  },
+  "serverSideCondition": {
+    "conditionType": null
+  },
+  "readOnly": {
+    "readOnlyConditionType": null
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  },
+  "serverCache": {
+    "cacheMode": "Disabled"
+  },
+  "customization": {
+    "customizable": "Not Customizable By End Users"
+  }
+}

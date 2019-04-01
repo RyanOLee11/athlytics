@@ -1,0 +1,47 @@
+{
+  "identification": {
+    "buttonName": "DELETE",
+    "buttonLabel": "Delete"
+  },
+  "layout": {
+    "displaySequence": 20,
+    "buttonPosition": "REGION_TEMPLATE_DELETE",
+    "gridNewGrid": "N",
+    "gridNewRow": null,
+    "gridColumn": null,
+    "gridNewColumn": null,
+    "gridColumnSpan": null,
+    "gridRowSpan": null,
+    "gridColumnCssClasses": null,
+    "gridColumnAttributes": null
+  },
+  "appearance": {
+    "buttonTemplate": "Text",
+    "buttonIsHot": "N",
+    "templateOptions": "#DEFAULT#",
+    "appearanceCssClasses": null,
+    "iconCssClasses": null
+  },
+  "behavior": {
+    "buttonAction": "Redirect to URL",
+    "buttonTarget": "javascript:apex.confirm(htmldb_delete_message,'DELETE');",
+    "buttonExecuteValidations": "N",
+    "buttonWarnOnUnsavedChanges": "Do Not Check",
+    "buttonDatabaseAction": "SQL DELETE action"
+  },
+  "advanced": {
+    "staticId": null,
+    "customAttributes": null,
+    "buttonRequestSourceType": null
+  },
+  "serverSideCondition": {
+    "conditionType": "Item is NOT NULL",
+    "conditionItem1": "P1040_TEAM_ID"
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  }
+}

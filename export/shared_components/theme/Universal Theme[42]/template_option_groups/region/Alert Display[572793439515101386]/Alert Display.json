@@ -1,0 +1,9 @@
+{
+  "name": "ALERT_DISPLAY",
+  "displayName": "Alert Display",
+  "displaySequence": 1,
+  "templateTypes": "REGION",
+  "helpText": "Sets the layout of the Alert Region.",
+  "nullText": null,
+  "isAdvanced": "N"
+}

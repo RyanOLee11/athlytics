@@ -1,0 +1,8 @@
+{
+  "appId": "654",
+  "database": {
+    "user": "sandbox",
+    "password": "sandbox",
+    "connectString": "copernic.insum.intranet:1521/dev51.insum.intranet"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "identification": {
+    "name": "Process Row of ATH_TEAMS",
+    "pageProcessType": "NATIVE_FORM_PROCESS"
+  },
+  "executionOptions": {
+    "executionSequence": 30,
+    "processPoint": "Processing",
+    "processRegion": null,
+    "runProcess": "Once Per Page Visit (default)"
+  },
+  "error": {
+    "processErrorDisplayLocation": "Inline in Notification"
+  },
+  "serverSideCondition": {
+    "whenButtonPressed": null,
+    "conditionType": null
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  },
+  "settings": {
+    "tableOwner": null,
+    "tableName": "ATH_TEAMS",
+    "primaryKeyItem": "P1040_TEAM_ID",
+    "primaryKeyColumn": "TEAM_ID",
+    "secondaryKeyItem": null,
+    "secondaryKeyColumn": null,
+    "rowVersionColumn": null,
+    "runtimeWhereClause": null,
+    "returnKeyIntoItem": null,
+    "returnSecondKeyIntoItem": null,
+    "supportedOperations": "I:U:D"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "ROW_HIGHLIGHTING",
+  "displayName": "Row Highlighting",
+  "displaySequence": 20,
+  "templateTypes": "REPORT",
+  "helpText": "Determines whether you want the row to be highlighted on hover.",
+  "nullText": null,
+  "isAdvanced": "N"
+}

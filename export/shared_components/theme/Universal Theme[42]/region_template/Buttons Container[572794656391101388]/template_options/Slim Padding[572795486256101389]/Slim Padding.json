@@ -1,0 +1,9 @@
+{
+  "group": "Body Padding",
+  "name": "SLIMPADDING",
+  "displayName": "Slim Padding",
+  "displaySequence": 5,
+  "cssClasses": "t-ButtonRegion--slimPadding",
+  "helpText": null,
+  "isAdvanced": "No"
+}

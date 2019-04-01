@@ -1,0 +1,9 @@
+{
+  "name": "TAB_STYLE",
+  "displayName": "Tab Style",
+  "displaySequence": 1,
+  "templateTypes": "REGION",
+  "helpText": null,
+  "nullText": "Default",
+  "isAdvanced": "N"
+}

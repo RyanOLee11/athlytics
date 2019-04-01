@@ -1,0 +1,9 @@
+{
+  "group": "Body Text",
+  "name": "4_LINES",
+  "displayName": "4 Lines",
+  "displaySequence": 30,
+  "cssClasses": "t-Cards--desc-4ln",
+  "helpText": null,
+  "isAdvanced": null
+}

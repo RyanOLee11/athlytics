@@ -1,0 +1,9 @@
+{
+  "group": "Report Border",
+  "name": "HORIZONTALBORDERS",
+  "displayName": "Horizontal Only",
+  "displaySequence": 20,
+  "cssClasses": "t-Report--horizontalBorders",
+  "helpText": null,
+  "isAdvanced": "No"
+}

@@ -1,0 +1,54 @@
+{
+  "identification": {
+    "title": "Players",
+    "regionType": "NATIVE_SQL_REPORT"
+  },
+  "source": {
+    "sourcePageItemsToSubmit": null,
+    "hasGenericColumns": "DERIVED_REPORT_COLUMNS"
+  },
+  "layout": {
+    "displaySequence": 40,
+    "regionPosition": "BODY",
+    "gridNewGrid": null,
+    "gridNewRow": "N",
+    "gridColumn": 7,
+    "gridNewColumn": null,
+    "gridColumnSpan": null,
+    "gridColumnCssClasses": null,
+    "gridColumnAttributes": null
+  },
+  "appearance": {
+    "regionTemplate": "Standard",
+    "templateOptions": "#DEFAULT#:i-h480:t-Region--noUI:t-Region--scrollBody",
+    "appearanceCssClasses": null,
+    "iconCssClasses": null,
+    "itemDisplayPosition": "Above Content"
+  },
+  "advanced": {
+    "staticId": "players-classic",
+    "customAttributes": null,
+    "regionImage": null,
+    "imageTagAttributes": null,
+    "regionDisplaySelector": "Y",
+    "schemaOverrideItem": null
+  },
+  "serverSideCondition": {
+    "conditionType": null
+  },
+  "readOnly": {
+    "readOnlyConditionType": null
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  },
+  "serverCache": {
+    "cacheMode": "Disabled"
+  },
+  "customization": {
+    "customizable": "Not Customizable By End Users"
+  }
+}

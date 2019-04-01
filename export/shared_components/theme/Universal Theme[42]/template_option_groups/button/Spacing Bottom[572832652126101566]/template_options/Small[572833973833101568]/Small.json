@@ -1,0 +1,8 @@
+{
+  "name": "SMALLBOTTOMMARGIN",
+  "displayName": "Small",
+  "displaySequence": 10,
+  "cssClasses": "t-Button--padBottom",
+  "helpText": null,
+  "isAdvanced": null
+}

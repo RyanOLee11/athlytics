@@ -1,0 +1,46 @@
+{
+  "identification": {
+    "buttonName": "GEN_LINEUP",
+    "buttonLabel": "Generate Best"
+  },
+  "layout": {
+    "displaySequence": 20,
+    "buttonPosition": "Below Region",
+    "gridNewGrid": null,
+    "gridNewRow": null,
+    "gridColumn": null,
+    "gridNewColumn": null,
+    "gridColumnSpan": null,
+    "gridRowSpan": null,
+    "gridColumnCssClasses": null,
+    "gridColumnAttributes": null,
+    "horizontalAlignment": "Right"
+  },
+  "appearance": {
+    "buttonTemplate": "Text",
+    "buttonIsHot": "N",
+    "templateOptions": "#DEFAULT#",
+    "appearanceCssClasses": null,
+    "iconCssClasses": null
+  },
+  "behavior": {
+    "buttonAction": "Submit Page",
+    "buttonExecuteValidations": "Y",
+    "buttonWarnOnUnsavedChanges": "Do Not Check",
+    "buttonDatabaseAction": null
+  },
+  "advanced": {
+    "staticId": null,
+    "customAttributes": null,
+    "buttonRequestSourceType": null
+  },
+  "serverSideCondition": {
+    "conditionType": "Never"
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  }
+}

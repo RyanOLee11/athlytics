@@ -1,0 +1,9 @@
+{
+  "name": "TYPE",
+  "displayName": "Type",
+  "displaySequence": 20,
+  "templateTypes": "BUTTON",
+  "helpText": null,
+  "nullText": "Normal",
+  "isAdvanced": "N"
+}

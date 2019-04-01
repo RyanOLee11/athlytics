@@ -1,0 +1,66 @@
+.t-Report-report, .t-Report-wrap{
+    width: 100%;
+}
+
+.t-Cards-item{
+    width: 100%;
+    border-radius: 5px;   
+}
+
+.lineup-li{
+    border: 1px solid black;
+}
+
+.t-Card-initials{
+    text-align: center;
+}
+.t-Cards{
+    margin: 1px !important;
+    cursor: pointer;
+}
+.t-Card-icon{
+    margin: initial !important;
+}
+
+
+.player-fullname {
+    margin: auto;
+    color: #eeeeee;
+}
+
+.player-fullname h2{
+    margin: auto;
+}
+
+.proj-fps{
+    margin-top: auto; 
+    margin-bottom: auto;
+    color: #eeeeee;
+}
+
+.fa-plus-circle{
+    cursor: pointer; 
+    color: #16ce05;
+}
+
+.fa-times-circle-o{
+    cursor: pointer; 
+    color: red;
+}
+
+
+.lineup-position{
+}
+.lineup-card{
+    background-color: #c3c3c3;
+}
+.lineup_player{
+    float: right;
+}
+.lineup-cell:nth-child(odd)  {
+    background-color: #16ce05;
+}
+
+.lineup-cell:nth-child(even)  {
+    background-color: #ad9f9f73;
+}

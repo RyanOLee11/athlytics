@@ -1,0 +1,75 @@
+{
+  "identification": {
+    "itemName": "P1040_TEAM_PIC",
+    "itemType": "NATIVE_FILE"
+  },
+  "label": {
+    "label": "Team Pic",
+    "labelAlignment": "Right",
+    "fieldTableCellAttributes": null
+  },
+  "layout": {
+    "displaySequence": 60,
+    "elementFieldAlignment": "Left",
+    "gridNewGrid": "N",
+    "gridNewRow": "Y",
+    "gridColumn": null,
+    "gridNewColumn": "Y",
+    "gridColumnSpan": null,
+    "gridRowSpan": null,
+    "gridLabelColumnSpan": null,
+    "gridColumnCssClasses": null,
+    "gridColumnAttributes": null
+  },
+  "appearance": {
+    "fieldTemplate": "Optional",
+    "templateOptions": "#DEFAULT#",
+    "appearanceCssClasses": null,
+    "elementWidth": 60
+  },
+  "validation": {
+    "valueRequired": "N",
+    "elementMaxCharacters": 255
+  },
+  "advanced": {
+    "advancedCssClasses": null,
+    "customAttributes": null,
+    "itemWarnOnUnsavedChanges": null
+  },
+  "source": {
+    "sourceType": "Database Column",
+    "sourceDbColumn": "TEAM_PIC",
+    "sourceUsed": "Always, replacing any existing value in session state",
+    "maintainSessionState": "Per Session"
+  },
+  "default": {
+    "defaultValueType": null
+  },
+  "serverSideCondition": {
+    "conditionType": null
+  },
+  "readOnly": {
+    "readOnlyConditionType": null
+  },
+  "security": {
+    "authorizationScheme": null,
+    "sessionStateProtection": "Unrestricted",
+    "restrictedCharacters": null
+  },
+  "configuration": {
+    "buildOption": null
+  },
+  "settings": {
+    "storageType": "DB_COLUMN",
+    "mimeTypeColumn": null,
+    "filenameColumn": null,
+    "characterSetColumn": null,
+    "blobLastUpdatedColumn": null,
+    "displayDownloadLink": "Y",
+    "downloadLinkText": null,
+    "contentDisposition": "attachment",
+    "purgeFileAt": "SESSION",
+    "allowMultipleFiles": "N",
+    "fileTypes": null
+  }
+}

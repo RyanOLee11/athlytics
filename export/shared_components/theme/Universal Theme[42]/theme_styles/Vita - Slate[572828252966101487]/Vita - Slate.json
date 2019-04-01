@@ -1,0 +1,12 @@
+{
+  "name": "Vita - Slate",
+  "current": "N",
+  "isPublic": "Y",
+  "accessibilityTested": "N",
+  "cssFileUrls": null,
+  "themeRollerReadOnly": "Y",
+  "themeRollerInputFileUrls": "#THEME_IMAGES#less/theme/Vita-Slate.less",
+  "themeRollerOutputFileUrl": "#THEME_IMAGES#css/Vita-Slate#MIN#.css?v=#APEX_VERSION#",
+  "themeRollerConfig": "{\"customCSS\":\"\",\"vars\":{\"@g_Accent-BG\":\"#505f6d\",\"@g_Accent-OG\":\"#ececec\",\"@g_Body-Title-BG\":\"#dee1e4\",\"@l_Link-Base\":\"#337ac0\",\"@g_Body-BG\":\"#f5f5f5\"}}",
+  "comment": null
+}

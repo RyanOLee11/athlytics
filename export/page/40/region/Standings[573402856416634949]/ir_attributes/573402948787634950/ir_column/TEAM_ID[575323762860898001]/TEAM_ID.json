@@ -1,0 +1,24 @@
+{
+  "identification": {
+    "columnName": "TEAM_ID",
+    "irColumnDisplayType": "Hidden Column"
+  },
+  "heading": {
+    "columnHeading": "Team id"
+  },
+  "layout": {
+    "displaySequence": 10
+  },
+  "advanced": {
+    "staticId": null
+  },
+  "serverSideCondition": {
+    "conditionType": null
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  }
+}

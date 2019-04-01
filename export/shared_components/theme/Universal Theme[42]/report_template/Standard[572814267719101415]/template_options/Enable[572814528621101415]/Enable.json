@@ -1,0 +1,9 @@
+{
+  "group": "Alternating Rows",
+  "name": "ALTROWCOLORSENABLE",
+  "displayName": "Enable",
+  "displaySequence": 10,
+  "cssClasses": "t-Report--altRowsDefault",
+  "helpText": null,
+  "isAdvanced": "No"
+}

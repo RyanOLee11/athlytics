@@ -1,0 +1,9 @@
+{
+  "group": "Style",
+  "name": "FEATURED",
+  "displayName": "Featured",
+  "displaySequence": 30,
+  "cssClasses": "t-Cards--featured",
+  "helpText": null,
+  "isAdvanced": null
+}

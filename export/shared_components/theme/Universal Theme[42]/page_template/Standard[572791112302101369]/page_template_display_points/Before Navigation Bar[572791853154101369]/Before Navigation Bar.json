@@ -1,0 +1,7 @@
+{
+  "name": "Before Navigation Bar",
+  "templateSubstitution": "REGION_POSITION_08",
+  "gridSupport": "No",
+  "newRow": "No",
+  "maximumFixedGridColumns": null
+}

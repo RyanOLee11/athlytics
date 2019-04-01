@@ -1,0 +1,9 @@
+{
+  "group": "Style",
+  "name": "BORDERLESS",
+  "displayName": "Borderless",
+  "displaySequence": 1,
+  "cssClasses": "t-ButtonRegion--noBorder",
+  "helpText": null,
+  "isAdvanced": "No"
+}

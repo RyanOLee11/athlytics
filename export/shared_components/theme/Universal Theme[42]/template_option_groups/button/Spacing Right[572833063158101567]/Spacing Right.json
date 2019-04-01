@@ -1,0 +1,9 @@
+{
+  "name": "SPACING_RIGHT",
+  "displayName": "Spacing Right",
+  "displaySequence": 80,
+  "templateTypes": "BUTTON",
+  "helpText": "Controls the spacing to the right of the button.",
+  "nullText": "Default",
+  "isAdvanced": "Y"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "FRM_NONE",
+  "displayName": "None",
+  "displaySequence": 10,
+  "cssClasses": "margin-right-none",
+  "helpText": "Removes the right margin for this field.",
+  "isAdvanced": null
+}

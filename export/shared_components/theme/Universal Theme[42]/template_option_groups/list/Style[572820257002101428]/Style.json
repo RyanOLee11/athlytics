@@ -1,0 +1,9 @@
+{
+  "name": "STYLE",
+  "displayName": "Style",
+  "displaySequence": 10,
+  "templateTypes": "LIST",
+  "helpText": null,
+  "nullText": "Default",
+  "isAdvanced": "N"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "ITEM_PRE_TEXT",
+  "displayName": "Item Pre Text",
+  "displaySequence": 20,
+  "templateTypes": "FIELD",
+  "helpText": "Adjust the display of the Item Pre Text",
+  "nullText": "Default",
+  "isAdvanced": "Y"
+}

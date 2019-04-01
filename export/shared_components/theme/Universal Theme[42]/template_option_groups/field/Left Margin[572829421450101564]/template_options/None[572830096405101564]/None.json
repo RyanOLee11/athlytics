@@ -1,0 +1,8 @@
+{
+  "name": "FLM_NONE",
+  "displayName": "None",
+  "displaySequence": 10,
+  "cssClasses": "margin-left-none",
+  "helpText": "Removes the left margin for this field.",
+  "isAdvanced": null
+}

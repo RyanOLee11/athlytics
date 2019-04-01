@@ -1,0 +1,9 @@
+{
+  "group": "Body Text",
+  "name": "2_LINES",
+  "displayName": "2 Lines",
+  "displaySequence": 10,
+  "cssClasses": "t-Cards--desc-2ln",
+  "helpText": null,
+  "isAdvanced": null
+}

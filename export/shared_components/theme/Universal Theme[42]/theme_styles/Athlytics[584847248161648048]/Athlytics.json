@@ -1,0 +1,12 @@
+{
+  "name": "Athlytics",
+  "current": "Y",
+  "isPublic": "Y",
+  "accessibilityTested": "Y",
+  "cssFileUrls": null,
+  "themeRollerReadOnly": "N",
+  "themeRollerInputFileUrls": "#THEME_IMAGES#less/theme/Vita.less",
+  "themeRollerOutputFileUrl": "#THEME_DB_IMAGES#584847248161648048.css",
+  "themeRollerConfig": "{\"customCSS\":\"\",\"vars\":{\"@g_Accent-BG\":\"#16ce05\",\"@g_Accent-OG\":\"#eeeeee\",\"@g_Container-BorderRadius\":\"6px\",\"@g_Body-BG\":\"#7c747c\",\"@g_Nav-FG\":\"#7c747c\",\"@g_Region-Header-BG\":\"#7c747c\"}}",
+  "comment": null
+}

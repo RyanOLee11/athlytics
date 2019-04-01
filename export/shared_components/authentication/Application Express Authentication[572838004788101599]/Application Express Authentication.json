@@ -1,0 +1,26 @@
+{
+  "attributes": {
+    "name": "Application Express Authentication",
+    "schemeType": "Application Express Accounts"
+  },
+  "sessionNotValid": {
+    "verifyFunctionName": null
+  },
+  "loginProcessing": {
+    "preAuthenticationProcedure": null,
+    "postAuthenticationProcedure": null,
+    "helpText": null
+  },
+  "postLogoutUrl": {
+    "goTo": "Login Page"
+  },
+  "sessionSharing": {
+    "cookieName": null,
+    "cookiePath": null,
+    "cookieDomain": null,
+    "secure": "No"
+  },
+  "comments": {
+    "comments": null
+  }
+}

@@ -1,0 +1,1 @@
+$(this.triggeringElement).data('lineup-id');

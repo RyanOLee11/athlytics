@@ -1,0 +1,10 @@
+{
+  "identification": {
+    "irSavedVisibility": "Primary Default",
+    "name": "Primary Report",
+    "irSavedReportAlias": "5733444"
+  },
+  "link": {
+    "linkExample": "f?p=&APP_ID.:20:&APP_SESSION.:IR_5733444"
+  }
+}

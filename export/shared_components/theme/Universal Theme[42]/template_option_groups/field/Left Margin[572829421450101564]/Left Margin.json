@@ -1,0 +1,9 @@
+{
+  "name": "LEFT_MARGIN",
+  "displayName": "Left Margin",
+  "displaySequence": 220,
+  "templateTypes": "FIELD",
+  "helpText": "Set the left margin for this field.",
+  "nullText": "Default",
+  "isAdvanced": "Y"
+}

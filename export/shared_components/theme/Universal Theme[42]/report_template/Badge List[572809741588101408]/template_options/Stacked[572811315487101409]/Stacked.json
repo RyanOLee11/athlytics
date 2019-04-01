@@ -1,0 +1,9 @@
+{
+  "group": "Layout",
+  "name": "STACKED",
+  "displayName": "Stacked",
+  "displaySequence": 10,
+  "cssClasses": "t-BadgeList--stacked",
+  "helpText": null,
+  "isAdvanced": "No"
+}

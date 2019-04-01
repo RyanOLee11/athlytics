@@ -1,0 +1,17 @@
+{
+  "identification": {
+    "daActionType": "NATIVE_REFRESH"
+  },
+  "affectedElements": {
+    "affectedType": "Region",
+    "affectedRegion": "Lineups"
+  },
+  "executionOptions": {
+    "executionSequence": 20,
+    "daEvent": "Set Lineup ID",
+    "fireWhenEventResultIs": "True",
+    "fireOnPageLoad": "N",
+    "stopExecutionOnError": "Y",
+    "waitForResult": null
+  }
+}

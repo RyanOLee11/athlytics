@@ -1,0 +1,9 @@
+{
+  "name": "WIDTH",
+  "displayName": "Width",
+  "displaySequence": 60,
+  "templateTypes": "BUTTON",
+  "helpText": "Sets the width of the button.",
+  "nullText": "Auto - Default",
+  "isAdvanced": "Y"
+}

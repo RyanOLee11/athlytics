@@ -1,0 +1,9 @@
+{
+  "group": "Style",
+  "name": "COMPACT",
+  "displayName": "Compact",
+  "displaySequence": 20,
+  "cssClasses": "t-Cards--compact",
+  "helpText": "Use this option when you want to show smaller cards.",
+  "isAdvanced": null
+}

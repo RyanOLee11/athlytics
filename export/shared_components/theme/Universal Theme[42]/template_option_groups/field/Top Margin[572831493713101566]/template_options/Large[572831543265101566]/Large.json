@@ -1,0 +1,8 @@
+{
+  "name": "FTM_LARGE",
+  "displayName": "Large",
+  "displaySequence": 40,
+  "cssClasses": "margin-top-lg",
+  "helpText": "Adds a large top margin for this field.",
+  "isAdvanced": null
+}

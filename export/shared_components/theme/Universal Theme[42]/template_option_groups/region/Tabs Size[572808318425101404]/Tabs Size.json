@@ -1,0 +1,9 @@
+{
+  "name": "TABS_SIZE",
+  "displayName": "Tabs Size",
+  "displaySequence": 1,
+  "templateTypes": "REGION",
+  "helpText": null,
+  "nullText": "Default",
+  "isAdvanced": "N"
+}

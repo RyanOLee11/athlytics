@@ -1,0 +1,9 @@
+{
+  "group": "Body Style",
+  "name": "SHADOW_BACKGROUND",
+  "displayName": "Shadow Background",
+  "displaySequence": 10,
+  "cssClasses": "t-ContentBlock--shadowBG",
+  "helpText": "Gives the region body a slightly darker background.",
+  "isAdvanced": null
+}

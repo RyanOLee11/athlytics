@@ -1,0 +1,9 @@
+{
+  "group": null,
+  "name": "RESPONSIVE",
+  "displayName": "Responsive",
+  "displaySequence": 10,
+  "cssClasses": "t-BadgeList--responsive",
+  "helpText": "Automatically resize badges to smaller sizes as screen becomes smaller.",
+  "isAdvanced": "No"
+}

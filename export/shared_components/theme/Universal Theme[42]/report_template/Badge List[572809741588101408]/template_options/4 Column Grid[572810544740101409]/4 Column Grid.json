@@ -1,0 +1,9 @@
+{
+  "group": "Layout",
+  "name": "4COLUMNGRID",
+  "displayName": "4 Column Grid",
+  "displaySequence": 40,
+  "cssClasses": "t-BadgeList--cols t-BadgeList--4cols",
+  "helpText": null,
+  "isAdvanced": "No"
+}

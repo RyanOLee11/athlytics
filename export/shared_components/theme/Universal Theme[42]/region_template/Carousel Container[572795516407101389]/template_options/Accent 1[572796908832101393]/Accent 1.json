@@ -1,0 +1,9 @@
+{
+  "group": "Accent",
+  "name": "ACCENT_1",
+  "displayName": "Accent 1",
+  "displaySequence": 10,
+  "cssClasses": "t-Region--accent1",
+  "helpText": null,
+  "isAdvanced": null
+}

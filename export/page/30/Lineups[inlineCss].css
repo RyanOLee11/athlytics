@@ -1,0 +1,38 @@
+.fa-plus-circle{
+    cursor: pointer; 
+    color: #16ce05;
+}
+
+.fa-times-circle-o{
+    cursor: pointer; 
+    color: red;
+}
+
+
+
+.t-Cards-item{
+    width: 100%;
+    border-radius: 5px !important;   
+}
+
+.lineup-li{
+    border: 1px solid black;
+}
+
+
+
+.lineup-position{
+}
+.lineup-card{
+    background-color: #c3c3c3;
+}
+.lineup_player{
+    float: right;
+}
+.lineup-cell:nth-child(odd)  {
+    background-color: #16ce05;
+}
+
+.lineup-cell:nth-child(even)  {
+    background-color: #ad9f9f73;
+}

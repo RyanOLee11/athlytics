@@ -1,0 +1,9 @@
+{
+  "name": "ANIMATION",
+  "displayName": "Animation",
+  "displaySequence": 80,
+  "templateTypes": "LIST",
+  "helpText": "Sets the hover and focus animation.",
+  "nullText": "Default",
+  "isAdvanced": "N"
+}

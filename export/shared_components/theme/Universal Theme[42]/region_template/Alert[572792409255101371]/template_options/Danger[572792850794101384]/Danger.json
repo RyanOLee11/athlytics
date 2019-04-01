@@ -1,0 +1,9 @@
+{
+  "group": "Alert Type",
+  "name": "DANGER",
+  "displayName": "Danger",
+  "displaySequence": 20,
+  "cssClasses": "t-Alert--danger",
+  "helpText": "Show an error or danger alert.",
+  "isAdvanced": "No"
+}

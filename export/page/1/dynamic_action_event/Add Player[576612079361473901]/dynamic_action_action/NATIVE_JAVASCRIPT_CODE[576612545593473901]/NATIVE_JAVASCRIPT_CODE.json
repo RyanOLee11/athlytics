@@ -1,0 +1,16 @@
+{
+  "identification": {
+    "daActionType": "NATIVE_JAVASCRIPT_CODE"
+  },
+  "affectedElements": {
+    "affectedType": null
+  },
+  "executionOptions": {
+    "executionSequence": 20,
+    "daEvent": "Add Player",
+    "fireWhenEventResultIs": "True",
+    "fireOnPageLoad": "N",
+    "stopExecutionOnError": "Y",
+    "waitForResult": null
+  }
+}

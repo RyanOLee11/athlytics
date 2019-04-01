@@ -1,0 +1,9 @@
+{
+  "name": "REGION_TOP_MARGIN",
+  "displayName": "Top Margin",
+  "displaySequence": 200,
+  "templateTypes": "REGION",
+  "helpText": "Set the top margin for this region.",
+  "nullText": "Default",
+  "isAdvanced": "Y"
+}

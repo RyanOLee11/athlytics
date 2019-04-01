@@ -1,0 +1,8 @@
+{
+  "name": "SMALLRIGHTMARGIN",
+  "displayName": "Small",
+  "displaySequence": 10,
+  "cssClasses": "t-Button--padRight",
+  "helpText": null,
+  "isAdvanced": "No"
+}

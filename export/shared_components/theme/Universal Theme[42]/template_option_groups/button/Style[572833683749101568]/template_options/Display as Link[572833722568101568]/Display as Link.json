@@ -1,0 +1,8 @@
+{
+  "name": "DISPLAY_AS_LINK",
+  "displayName": "Display as Link",
+  "displaySequence": 30,
+  "cssClasses": "t-Button--link",
+  "helpText": "This option makes the button appear as a text link.",
+  "isAdvanced": null
+}

@@ -1,0 +1,8 @@
+{
+  "name": "STRETCH",
+  "displayName": "Stretch",
+  "displaySequence": 10,
+  "cssClasses": "t-Button--stretch",
+  "helpText": "Stretches button to fill container",
+  "isAdvanced": "No"
+}

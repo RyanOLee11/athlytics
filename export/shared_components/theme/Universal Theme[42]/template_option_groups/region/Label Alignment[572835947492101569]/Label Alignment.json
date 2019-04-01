@@ -1,0 +1,9 @@
+{
+  "name": "LABEL_ALIGNMENT",
+  "displayName": "Label Alignment",
+  "displaySequence": 130,
+  "templateTypes": "REGION",
+  "helpText": "Set the label text alignment for items within this region.",
+  "nullText": "Right",
+  "isAdvanced": "Y"
+}

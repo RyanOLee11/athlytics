@@ -1,0 +1,9 @@
+{
+  "name": "DISPLAY_ICONS",
+  "displayName": "Display Icons",
+  "displaySequence": 30,
+  "templateTypes": "LIST",
+  "helpText": null,
+  "nullText": "No Icons",
+  "isAdvanced": "N"
+}

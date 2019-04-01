@@ -1,0 +1,9 @@
+{
+  "name": "SIZE",
+  "displayName": "Size",
+  "displaySequence": 1,
+  "templateTypes": "LIST",
+  "helpText": null,
+  "nullText": "Default",
+  "isAdvanced": "N"
+}

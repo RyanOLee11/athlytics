@@ -1,0 +1,12 @@
+{
+  "name": "Vista",
+  "current": "N",
+  "isPublic": "Y",
+  "accessibilityTested": "N",
+  "cssFileUrls": "#THEME_IMAGES#css/Vista#MIN#.css?v=#APEX_VERSION#",
+  "themeRollerReadOnly": "Y",
+  "themeRollerInputFileUrls": null,
+  "themeRollerOutputFileUrl": null,
+  "themeRollerConfig": null,
+  "comment": null
+}

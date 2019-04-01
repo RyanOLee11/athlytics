@@ -1,0 +1,8 @@
+{
+  "name": "FORMSIZELARGE",
+  "displayName": "Large",
+  "displaySequence": 10,
+  "cssClasses": "t-Form--large",
+  "helpText": null,
+  "isAdvanced": "No"
+}

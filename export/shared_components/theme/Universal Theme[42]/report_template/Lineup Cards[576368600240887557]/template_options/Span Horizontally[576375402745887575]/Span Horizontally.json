@@ -1,0 +1,9 @@
+{
+  "group": "Layout",
+  "name": "SPAN_HORIZONTALLY",
+  "displayName": "Span Horizontally",
+  "displaySequence": 70,
+  "cssClasses": "t-Cards--spanHorizontally",
+  "helpText": null,
+  "isAdvanced": null
+}

@@ -1,0 +1,9 @@
+{
+  "group": "Label Width",
+  "name": "VARIABLE_MEDIUM",
+  "displayName": "Variable - Medium",
+  "displaySequence": 50,
+  "cssClasses": "t-AVPList--variableLabelMedium",
+  "helpText": null,
+  "isAdvanced": null
+}

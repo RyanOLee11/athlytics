@@ -1,0 +1,8 @@
+{
+  "name": "SIMPLE",
+  "displayName": "Simple",
+  "displaySequence": 10,
+  "cssClasses": "t-Button--simple",
+  "helpText": null,
+  "isAdvanced": "No"
+}
